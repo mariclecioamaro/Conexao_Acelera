@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'open sans', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(199, 202, 16);
+}
+
+header{
+    width: 100%;
+    position: fixed;
+}
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-color: #101010;
+    text-align: center;
+}
+
+h2{
+    padding-top: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+h3{
+    padding: 20px;
+}
+
+p{
+    padding: 20px;
+}
+
+.navigator ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    padding-top: 0;
+}
+
+.navigator ul li{
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+}
+.navigator ul li a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.navigator ul li a:hover{
+    color: #00ff40;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    font-size: 25px;
+}
+
+main div{
+    padding-top: 100px;
+    text-align: center;
+}
+
+main img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 25%;
+}
+
+main div img{
+    height: 400px;
+    width: 400px;
+    margin: 30px 30px 30px 30px;
+}
+
+main #sobre{
+    background-color: #fff;
+    color: #101010;
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+main #sobre a{
+    color: #101010;
+}
+
+main #cursos{
+    color: #101010;
+    padding: 50px;
+}
+
+main #cursos ul{
+    margin-left: 20px;
+}
+
+main #projeto{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+main #projeto a{
+    color: #101010; 
+}
+main #projeto ul{
+    color: #101010;
+    margin-left: 20px;
+}
+
+main #contato{
+    padding: 20px;
+    margin-left: 25px;
+    align-items: center;
+}
+
+main #contato a{
+    color: #101010;
+    margin: 10px;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #101010;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.social-list ul{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.social-list ul li{
+    padding: 20px;
+}
+
+.social-list ul li a{
+    color: #fff;
+}
+
+.social-list ul li a:hover{
+    color: #00ff40
+}
