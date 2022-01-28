@@ -51,6 +51,7 @@ p{
 
 .navigator ul li{
     padding: 15px;
+    padding-top: 10px;
     align-items: center;
     text-align: center;
 }
