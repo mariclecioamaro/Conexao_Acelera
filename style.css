@@ -46,7 +46,7 @@ p{
     justify-content: center;
     align-items: center;
     padding: 20px;
-    padding-top: 0;
+    padding-top: 10px;
 }
 
 .navigator ul li{
