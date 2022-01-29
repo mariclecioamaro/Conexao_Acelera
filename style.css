@@ -90,8 +90,8 @@ main #sobre{
     background-color: #fff;
     color: #101010;
     padding: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 20px;
     justify-content: center;
 }
@@ -111,8 +111,8 @@ main #cursos ul{
 
 main #projeto{
     margin-top: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 20px;
     background-color: #fff;
 }
