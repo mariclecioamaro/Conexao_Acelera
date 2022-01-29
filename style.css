@@ -126,6 +126,7 @@ main #projeto ul{
 }
 
 main #contato{
+    text-align: center;
     padding: 20px;
     margin-left: 25px;
     align-items: center;
