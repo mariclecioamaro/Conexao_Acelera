@@ -81,14 +81,13 @@ main img{
 }
 
 main div img{
-    height: 300px;
-    width: 300px;
-    margin: 30px 30px 30px 30px;
+    width: 800px;
+    height: 100%;
 }
 
 
 .imagem{
-    padding: 2px;
+    padding: 1px;
     background-color: #000;
 }
 
