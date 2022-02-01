@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(199, 202, 16);
+    background-color: #feea3a;
 }
 
 header{
@@ -58,7 +58,7 @@ p{
     color: #fff;
 }
 .navigator ul li a:hover{
-    color: #00ff40;
+    color: #004aad;
 }
 
 main{
@@ -83,6 +83,7 @@ main img{
 main div img{
     width: 800px;
     height: 100%;
+    border-radius: 10px;
 }
 
 .imagem{
@@ -168,5 +169,5 @@ footer{
 }
 
 .social-list ul li a:hover{
-    color: #00ff40
+    color: #004aad;
 }
