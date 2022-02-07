@@ -85,7 +85,9 @@ main div img{
 }
 
 .imagem{
-    padding: 1px;
+    padding-top: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: #000;
 }
 
